@@ -107,6 +107,7 @@ Créer une startup autour du projet [**Ichigo**](https://github.com/ichigoprojec
 ---
 <!-- header: "" -->
 ![bg left:33%](img/set-2.jpg)
+<br>
 # Merci pour votre écoute !
 Place aux questions !
 
