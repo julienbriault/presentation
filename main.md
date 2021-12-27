@@ -73,6 +73,7 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 
 - Introduction
   - Les motivations : pourquoi ce choix de sujet ?
+- Conduite et démarche de recherche
 - La sécurité dans le DevOps, oui mais comment ?
 - Des solutions pour garantir cette sécurité ?
 - Dans la vie, ça marche comment ?
@@ -85,7 +86,8 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 
 #### Pourquoi avoir fait ce choix de sujet ?
 
-- Sujet qui me tient à coeur 
+- Sujet qui me tient à coeur
+  - Contributeur à des projets comme [**naxsi**](https://github.com/nbs-system/naxsi) ou encore [**crowdsec**](https://github.com/crowdsecurity/crowdsec).
 
 ---
 
