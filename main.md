@@ -29,6 +29,7 @@ markdown.marp.enableHtml: true
 
 <!-- _class: lead -->
 <!-- paginate: false --->
+<!-- header: "" -->
 
 # Soutenance de fin d'étude
 **Comprendre pour mieux placer efficacement la sécurité dans une approche DevOps**
@@ -37,6 +38,7 @@ Julien Briault - EISI 22.3 CS - IPSSI
 
 ---
 <!-- paginate: true --->
+<!-- header: _IPSSI/Normation_  -->
 ## Avant-propos
 
 Les sources (code) sont disponibles sur [Github](https://github.com/julienbriault/presentation).
@@ -62,11 +64,12 @@ Développeur C/Golang/Python
 ![bg fit right:40%](img/julien.png)
 
 ---
-
+<!-- header: "" -->
 ![bg](img/set.png)
 
----
 
+---
+<!-- header: _IPSSI/Normation_  -->
 # Sommaire
 
 - Introduction
@@ -102,6 +105,9 @@ Créer une startup autour du projet [**Ichigo**](https://github.com/ichigoprojec
 ![bg fit right:40%](img/ichigo.png)
 
 ---
+<!-- header: "" -->
+![bg left:33%](img/set-2.jpg)
 # Merci pour votre écoute !
 Place aux questions !
+
 ---
