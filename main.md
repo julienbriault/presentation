@@ -69,6 +69,22 @@ Développeur C/Golang/Python
 
 # Sommaire
 
-- Les motivations : pourquoi ce choix de sujet ?
+- Introduction
+  - Les motivations : pourquoi ce choix de sujet ?
+- La sécurité dans le DevOps, oui mais comment ?
+- Des solutions pour garantir cette sécurité ?
+- Dans la vie, ça marche comment ?
+- Conclusion
+- Le futur
+
+---
+
+# Le futur
+#### Le retour aux sources
+
+- Premier CDI signé
+- Poste : **Network Engineer SRE** ![bg fit right:40%](img/deezer.png)
+
+**#network** **#sre** **#core-infra** **#automation**
 
 ---
