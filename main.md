@@ -53,13 +53,12 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 
 **Julien BRIAULT**
 
-System/DevOps Engineer chez **Rudder/Normation**
+- System/DevOps Engineer chez **Rudder/Normation**
+- Responsable Informatique aux [Restos du Coeur](https://www.restosducoeur.org/)
+- Auteur principal sur [blog.jbriault.fr](https://blog.jbriault.fr)
+- Développeur C/Golang/Python
 
-Auteur principal sur [blog.jbriault.fr](https://blog.jbriault.fr)
-
-Développeur C/Golang/Python
-
-**#mao** **#dev** **#network** **#automation** **#open-source** **#dj**
+**#mao-dj** **#dev** **#net** **#automation** **#open-source** **#free-software**
 
 ![bg fit right:40%](img/julien.png)
 
@@ -79,6 +78,14 @@ Développeur C/Golang/Python
 - Dans la vie, ça marche comment ?
 - Conclusion
 - Le futur
+
+---
+
+# Introduction
+
+#### Pourquoi avoir fait ce choix de sujet ?
+
+- Sujet qui me tient à coeur 
 
 ---
 
