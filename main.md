@@ -103,5 +103,5 @@ Créer une startup autour du projet [**Ichigo**](https://github.com/ichigoprojec
 
 ---
 # Merci pour votre écoute !
-Des questions ?
+Place aux questions !
 ---
