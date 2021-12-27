@@ -31,13 +31,19 @@ paginate: true
 <!-- _class: lead -->
 
 # Soutenance de fin d'étude
-###### Julien Briault - EISI 22.3 CS - IPSSI
+**Comprendre pour mieux placer efficacement la sécurité dans une approche DevOps**
+<br>
+Julien Briault - EISI 22.3 CS - IPSSI
 
 ---
 
 ## Avant-propos
 
-Les sources (code) sont disponibles sur Github.
+Les sources (code) sont disponibles sur [Github](https://github.com/julienbriault/presentation).
+
+Cette présentation est sous licence **CC BY-SA FR 2.0** (tout comme le mémoire).
+
+Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **citer** l'auteur !
 
 ---
 
@@ -58,5 +64,11 @@ Développeur C/Golang/Python
 ---
 
 ![bg](img/set.png)
+
+---
+
+# Sommaire
+
+- Les motivations : pourquoi ce choix de sujet ?
 
 ---
