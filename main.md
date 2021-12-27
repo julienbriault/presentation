@@ -2,7 +2,6 @@
 marp: true
 theme: gaia
 markdown.marp.enableHtml: true
-paginate: true
 ---
 
 <style>
@@ -29,6 +28,7 @@ paginate: true
 </style>
 
 <!-- _class: lead -->
+<!-- paginate: false --->
 
 # Soutenance de fin d'étude
 **Comprendre pour mieux placer efficacement la sécurité dans une approche DevOps**
@@ -36,7 +36,7 @@ paginate: true
 Julien Briault - EISI 22.3 CS - IPSSI
 
 ---
-
+<!-- paginate: true --->
 ## Avant-propos
 
 Les sources (code) sont disponibles sur [Github](https://github.com/julienbriault/presentation).
@@ -82,9 +82,26 @@ Développeur C/Golang/Python
 # Le futur
 #### Le retour aux sources
 
-- Premier CDI signé
+- Premier CDI *signé*
 - Poste : **Network Engineer SRE** ![bg fit right:40%](img/deezer.png)
 
 **#network** **#sre** **#core-infra** **#automation**
 
+---
+
+# Le futur
+
+Créer une startup autour du projet [**Ichigo**](https://github.com/ichigoproject).
+
+- Projet à orientation **NetDevOps**
+  - Automatisation
+  - Déploiement
+  - Audit
+  - Sauvegarde
+
+![bg fit right:40%](img/ichigo.png)
+
+---
+# Merci pour votre écoute !
+Des questions ?
 ---
