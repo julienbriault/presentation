@@ -53,8 +53,8 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 
 **Julien BRIAULT**
 
-- System/DevOps Engineer chez **Rudder/Normation**
-- Responsable Informatique aux [Restos du Coeur](https://www.restosducoeur.org/)
+- System Engineer chez **Rudder/Normation**
+- Responsable Informatique aux [Restos du Coeur](https://www.restosducoeur.org/) (~ 1 ans)
 - Auteur principal sur [blog.jbriault.fr](https://blog.jbriault.fr)
 - Développeur C/Golang/Python
 
@@ -87,7 +87,11 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 #### Pourquoi avoir fait ce choix de sujet ?
 
 - Sujet qui me tient à coeur
-  - Contributeur à des projets comme [**naxsi**](https://github.com/nbs-system/naxsi) ou encore [**crowdsec**](https://github.com/crowdsecurity/crowdsec).
+  - Contributeur à des projets comme [**naxsi**](https://github.com/nbs-system/naxsi) ou encore [**crowdsec**](https://github.com/crowdsecurity/crowdsec). Mais également [Rudder](https://www.rudder.io/)...
+- Rudder est un outil qui se veut ***DevSecOps***\*
+<br>
+
+\* Terme marketing pour désigné le fait que l'outil est à destination à la fois des *ops*, des *devs* (dans une certaine mesure) et des *équipes de sécu*.
 
 ---
 
