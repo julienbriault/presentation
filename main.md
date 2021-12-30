@@ -92,7 +92,7 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 - Rudder est un outil qui se veut ***DevSecOps***\*
 <br>
 
-\* Terme marketing pour désigné le fait que l'outil est à destination à la fois des *ops*, des *devs* (dans une certaine mesure) et des *équipes de sécu*.
+\* Terme marketing pour désigner le fait que l'outil est à destination à la fois des *ops*, des *devs* (dans une certaine mesure) et des *équipes de sécu*.
 
 ---
 
