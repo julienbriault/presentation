@@ -74,6 +74,7 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 - Introduction
   - Les motivations : pourquoi ce choix de sujet ?
 - Conduite et démarche de recherche
+- Les origines
 - La sécurité dans le DevOps, oui mais comment ?
 - Des solutions pour garantir cette sécurité ?
 - Dans la vie, ça marche comment ?
@@ -114,6 +115,14 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
   - L'**expérience personnelle** : l'essai et l'errreur 
 
 - Cette démarche ne resulte en rien d'un *raisonnement logique* (au sens scientifique du terme).
+
+---
+
+# Les origines
+
+![width:700px](img/devops.png)
+
+\**Image tirée du talk de *Denis GERMAIN* nommé **[SRE](https://www.youtube.com/watch?v=C8bcFLmZzAY)**.*
 
 ---
 
