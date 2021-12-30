@@ -79,7 +79,7 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 - Créatrice du **[DevOps Rex](https://2019.devopsrex.fr/)** (conférence autour du DevOps)
 
 - Le logiciel :
-  - Seul acteur français et européen dans la gestion de configuration et sa mise en conformité des systèmes.
+  - Seul acteur *français* et *européen* dans la gestion de configuration et sa mise en conformité des systèmes.
 ---
 <!-- header: _IPSSI/Normation_  -->
 # Sommaire
