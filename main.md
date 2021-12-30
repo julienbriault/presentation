@@ -68,6 +68,19 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 
 
 ---
+
+# Rudder, qu'est-ce que c'est ?
+
+- Entreprise éditrice de logiciel **Open Source** du même nom
+  - Basée à Paris (3ème proche de République)
+  - A une dizaine d'années
+  - 14 collaborateurs (dont une majorité de devs)
+
+- Créatrice du **[DevOps Rex](https://2019.devopsrex.fr/)** (conférence autour du DevOps)
+
+- Le logiciel :
+  - Seul acteur français et européen dans la gestion de configuration et sa mise en conformité des systèmes.
+---
 <!-- header: _IPSSI/Normation_  -->
 # Sommaire
 
@@ -104,6 +117,16 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 - Le sujet n'est pas toujours bien compris
   - Détailler pour mieux comprendre pour installer les bonnes pratiques de sécurité
 - Une réponse souvent logique mais pas évidente à comprendre : **DevSecOps**
+---
+
+# Introduction
+
+#### Pourquoi avoir fait ce choix de sujet ?
+
+Des programmes de recherche autour du DevOps n'incluant pas la sécurité et mettant l'accent sur les performances.
+
+Exemple : **DORA** (Devop Research and Assessment) de **Google**.
+
 ---
 
 # Conduite et démarche de recherche
