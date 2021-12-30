@@ -32,7 +32,7 @@ markdown.marp.enableHtml: true
 <!-- header: "" -->
 
 # Soutenance de fin d'étude
-**Comprendre pour mieux placer efficacement la sécurité dans une approche DevOps**
+**Comprendre pour mieux placer efficacement la sécurité dans une approche DevOps** 
 <br>
 Julien Briault - EISI 22.3 CS - IPSSI
 
@@ -55,10 +55,10 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 
 - System Engineer chez **Rudder/Normation**
 - Responsable Informatique aux [Restos du Coeur](https://www.restosducoeur.org/) (~ 1 an)
-- Auteur principal sur [blog.jbriault.fr](https://blog.jbriault.fr)
+- Auteur principal sur [blog.jbriault.fr](https://blog.jbriault.fr) 
 - Développeur C/Golang/Python
 
-**#mao-dj** **#dev** **#net** **#automation** **#open-source** **#free-software**
+**#mao-dj** **#dev**  **#net** **#automation** **#open-source** **#free-software**
 
 ![bg fit right:40%](img/julien.png)
 
@@ -102,10 +102,19 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 - Beaucoup d'informations autour du DevOps mais peu finalement sur la sécurité dans celui-ci
 - Le sujet n'est pas toujours bien compris
   - Détailler pour mieux comprendre pour installer les bonnes pratiques de sécurité
-- Une réponse souvent logique mais évidente à comprendre : **DevSecOps**
+- Une réponse souvent logique mais pas évidente à comprendre : **DevSecOps**
 ---
 
 # Conduite et démarche de recherche
+
+- L'acquisition des connaissances se traduit par l'***intuition*** et l'***expérience personnelle***.
+
+- J'entends par :
+  - L'**intuition** : connaissance immédiate du sujet abordé
+  - L'**expérience personnelle** : l'essai et l'errreur 
+
+- Cette démarche ne resulte en rien d'un *raisonnement logique* (au sens scientifique du terme).
+
 ---
 
 # Le futur
