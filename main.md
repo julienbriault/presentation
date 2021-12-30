@@ -54,7 +54,7 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 **Julien BRIAULT**
 
 - System Engineer chez **Rudder/Normation**
-- Responsable Informatique aux [Restos du Coeur](https://www.restosducoeur.org/) (~ 1 ans)
+- Responsable Informatique aux [Restos du Coeur](https://www.restosducoeur.org/) (~ 1 an)
 - Auteur principal sur [blog.jbriault.fr](https://blog.jbriault.fr)
 - Développeur C/Golang/Python
 
@@ -95,6 +95,19 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 
 ---
 
+# Introduction
+
+#### Pourquoi avoir fait ce choix de sujet ?
+
+- Beaucoup d'informations autour du DevOps mais peu finalement sur la sécurité dans celui-ci
+- Le sujet n'est pas toujours bien compris
+  - Détailler pour mieux comprendre pour installer les bonnes pratiques de sécurité
+- Une réponse souvent logique mais évidente à comprendre : **DevSecOps**
+---
+
+# Conduite et démarche de recherche
+---
+
 # Le futur
 #### Le retour aux sources
 
@@ -104,7 +117,6 @@ Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **cit
 **#network** **#sre** **#core-infra** **#automation**
 
 ---
-
 # Le futur
 
 Créer une startup autour du projet [**Ichigo**](https://github.com/ichigoproject).
