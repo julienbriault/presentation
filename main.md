@@ -147,6 +147,18 @@ Exemple : **DORA** (Devop Research and Assessment) de **Google**.
 
 \**Image tirée du talk de *Denis GERMAIN* nommé **[SRE](https://www.youtube.com/watch?v=C8bcFLmZzAY)**.*
 
+
+---
+
+# Les origines
+
+La sécurité, encore une fois oublié... Vraiment ?
+
+- Analyse des concepts fondamentaux
+  - **Kaizen** (amélioration continue)
+  - **Scrum** (méthode : comment collaborer ?)
+  - **Lean Startup** (constuire, mesurer, apprendre)
+
 ---
 
 # Le futur
