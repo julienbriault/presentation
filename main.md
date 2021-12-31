@@ -171,8 +171,11 @@ La sécurité, encore une fois oublié... Vraiment ?
 
 # La sécurité, oui mais comment ?
 
-- Ce n'est pas que de la technique !
+- Apporter des solutions méthodologiques et techniques à chaque pan du DevOps.
+- Mais, ce n'est pas que de la technique...
   - D'après le **DEDSORD**, il est souvent oublié le point de vu *business* (des histoires de ROI par exemple).
+  - Le **BIA** (Business Impact Analysis) plus qu'important mais trop souvent oublié
+
 ---
 
 # Le futur
