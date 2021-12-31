@@ -27,14 +27,18 @@ markdown.marp.enableHtml: true
     }
 </style>
 
-<!-- _class: lead -->
 <!-- paginate: false --->
 <!-- header: "" -->
+<!-- _backgroundColor: #d74946 -->
+<!-- _color: white -->
+
+<br>
 
 # Soutenance de fin d'étude
 **Comprendre pour mieux placer efficacement la sécurité dans une approche DevOps** 
 <br>
-Julien Briault - EISI 22.3 CS - IPSSI
+Julien Briault
+Promotion 2021/2022 EISI 22.3 CS | IPSSI
 
 ---
 <!-- paginate: true --->
@@ -98,7 +102,13 @@ technologique*” - **Albert Einstein**
 - Le futur
 
 ---
+<!-- _class: lead -->
+<!-- _backgroundColor: #2d409e -->
+<!-- _color: white -->
 
+# Introduction
+
+---
 # Introduction
 
 #### Pourquoi avoir fait ce choix de sujet ?
@@ -131,6 +141,11 @@ Des programmes de recherche autour du DevOps n'incluant pas la sécurité et met
 Exemple : **DORA** (Devop Research and Assessment) de **Google**.
 
 ---
+<!-- _class: lead -->
+<!-- _backgroundColor: #2d409e -->
+<!-- _color: white -->
+# Conduite et démarche de recherche
+---
 
 # Conduite et démarche de recherche
 
@@ -143,7 +158,12 @@ Exemple : **DORA** (Devop Research and Assessment) de **Google**.
 - Cette démarche ne resulte en rien d'un *raisonnement logique* (au sens scientifique du terme).
 
 ---
+<!-- _class: lead -->
+<!-- _backgroundColor: #d25a2e -->
+<!-- _color: white -->
 
+# Les origines
+---
 # Les origines
 
 ![width:700px](img/devops.png)
@@ -161,7 +181,11 @@ La sécurité, encore une fois oublié... Vraiment ?
   - **Lean Startup** (constuire, mesurer, apprendre)
 
 ---
-
+<!-- _class: lead -->
+<!-- _backgroundColor: #2d409e -->
+<!-- _color: white -->
+# Rentrer dans le vif du sujet
+--- 
 # La sécurité, oui mais comment ?
 
 - Reprendre les différentes étapes du DevOps (*plan*, *build*, *release*, *deploy*, *operate*, *monitor*).
@@ -176,7 +200,28 @@ La sécurité, encore une fois oublié... Vraiment ?
   - Le **BIA** (Business Impact Analysis) plus qu'important mais trop souvent oublié
 
 ---
+<!-- _class: lead -->
+<!-- _backgroundColor: #137a66 -->
+<!-- _color: white -->
 
+# Finalité
+---
+# Des solutions
+
+Pour garantir la sécurité d'un environnement DevOps, on va retrouver :
+- Des questions posées (par exemple : "est-ce testable ?")
+- Des solutions techniques
+- De la méthodologie
+
+Le choix des solutions c'est principalement basé sur une analyse de receuils de bonnes pratiques et d'expériences personnelles/professionnelles.
+
+---
+<!-- _class: lead -->
+<!-- _backgroundColor: #531f61 -->
+<!-- _color: white -->
+
+# Le futur
+---
 # Le futur
 #### Le retour aux sources
 
