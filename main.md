@@ -161,6 +161,20 @@ La sécurité, encore une fois oublié... Vraiment ?
 
 ---
 
+# La sécurité, oui mais comment ?
+
+- Reprendre les différentes étapes du DevOps (*plan*, *build*, *release*, *deploy*, *operate*, *monitor*).
+  - Comprendre
+  - Déterminer les actions pour la sécurité déjà apportés
+  - Améliorer
+---
+
+# La sécurité, oui mais comment ?
+
+- Ce n'est pas que de la technique !
+  - D'après le **DEDSORD**, il est souvent oublié le point de vu *business* (des histoires de ROI par exemple).
+---
+
 # Le futur
 #### Le retour aux sources
 
