@@ -47,6 +47,9 @@ Cette présentation est sous licence **CC BY-SA FR 2.0** (tout comme le mémoire
 
 Ainsi chacun est libre de le *diffuser*, de le *modifier*, sans oublier de **citer** l'auteur !
 
+“*L’Homme et sa sécurité doivent constituer la première préoccupation de toute aventure
+technologique*” - **Albert Einstein**
+
 ---
 
 ## ~$ [whoami](https://blog.jbriault.fr/whoami/)
@@ -150,8 +153,6 @@ Exemple : **DORA** (Devop Research and Assessment) de **Google**.
 
 ---
 
-# Les origines
-
 La sécurité, encore une fois oublié... Vraiment ?
 
 - Analyse des concepts fondamentaux
@@ -168,8 +169,6 @@ La sécurité, encore une fois oublié... Vraiment ?
   - Déterminer les actions pour la sécurité déjà apportés
   - Améliorer
 ---
-
-# La sécurité, oui mais comment ?
 
 - Apporter des solutions méthodologiques et techniques à chaque pan du DevOps.
 - Mais, ce n'est pas que de la technique...
