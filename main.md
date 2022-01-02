@@ -256,6 +256,19 @@ Le choix des solutions c'est principalement basé sur une analyse de receuils de
   - OWASP Top 10 (bis)
 
 ---
+
+#### L'automatisation !
+
+* Le pipeline de CI/CD doit inclure les tests de sécurité 
+  * **Antifragilité** : amélioration par le stress!
+
+* Freins pour l'adoption
+  * Faux positifs
+  * Findins non activables 
+  * Lenter des outils SAST/DAST
+  * CVE sans solution, ça peut stopper complètement un déploiement! 
+
+---
 <!-- _class: lead -->
 <!-- _backgroundColor: #531f61 -->
 <!-- _color: white -->
