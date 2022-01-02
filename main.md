@@ -82,7 +82,7 @@ technologique*” - **Albert Einstein**
   - Basée à Paris (3ème proche de République)
   - A une dizaine d'années
   - 14 collaborateurs (dont une majorité de devs)
-
+ 
 - Créatrice du **[DevOps Rex](https://2019.devopsrex.fr/)** (conférence autour du DevOps)
 
 - Le logiciel :
@@ -214,6 +214,31 @@ Pour garantir la sécurité d'un environnement DevOps, on va retrouver :
 - De la méthodologie
 
 Le choix des solutions c'est principalement basé sur une analyse de receuils de bonnes pratiques et d'expériences personnelles/professionnelles.
+
+---
+#### La collaboration
+* L'équipe sécurité travaille avec les développeurs (l'équipe "DevOps")
+  * Dès le début des projets (shift security to the left)
+  * Rédiger des user stories orientées sécurité (> scénarios d'abus)
+  * Partage d'expérience (communication ++)
+* Aller plus loin :
+  *  Nomination de **security champions**
+      \+ Scalabilité
+      \+  Diffusion naturelle des bonnes pratiques
+
+---
+
+#### La formation/sensibilisation
+
+- Formation au développement sécurisé
+  - OWASP Top 10
+  - CWE Top 25
+  - Certifications : *GWEB*, *CSSLP*, *CASE*
+- Sensibilisation
+  - Par l'équipe sécurité
+    - Démos de piratage (DVWA, Metasploitable)
+  - E-Learning
+  - OWASP Top 10 (bis)
 
 ---
 <!-- _class: lead -->
