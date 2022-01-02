@@ -94,7 +94,7 @@ technologique*” - **Albert Einstein**
 - Introduction
   - Les motivations : pourquoi ce choix de sujet ?
 - Conduite et démarche de recherche
-- Les origines
+- Les origines/ le contexte
 - La sécurité dans le DevOps, oui mais comment ?
 - Des solutions pour garantir cette sécurité ?
 - Dans la vie, ça marche comment ?
@@ -162,7 +162,7 @@ Exemple : **DORA** (Devop Research and Assessment) de **Google**.
 <!-- _backgroundColor: #d25a2e -->
 <!-- _color: white -->
 
-# Les origines
+# Les origines/le contexte
 ---
 # Les origines
 
@@ -267,6 +267,10 @@ Le choix des solutions c'est principalement basé sur une analyse de receuils de
   * Findins non activables 
   * Lenter des outils SAST/DAST
   * CVE sans solution, ça peut stopper complètement un déploiement! 
+
+---
+
+#### L'outillage 
 
 ---
 <!-- _class: lead -->
