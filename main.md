@@ -257,7 +257,7 @@ Le choix des solutions c'est principalement basé sur une analyse de receuils de
 
 ---
 
-#### L'automatisation !
+#### L'automatisation!
 
 * Le pipeline de CI/CD doit inclure les tests de sécurité 
   * **Antifragilité** : amélioration par le stress!
