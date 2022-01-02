@@ -272,6 +272,35 @@ Le choix des solutions c'est principalement basé sur une analyse de receuils de
 
 #### L'outillage 
 
+* **Lint**
+  * Vérification des bonnes pratiques de développement
+  * Contrôles basiques de sécurité
+    * Appels systèmes (injection de commandes)
+    * Expressions régulières (ReDoS, safe-regex)
+* **SCA - Software Composition Analysis**
+  * Identification des dependances open-source vulnérables
+  * Possibilité de configurer des politiques (CVSS)
+
+
+---
+
+* **SAST** Static Application Security Testing / White box
+  * Recherche de vulnérabilités dans le code source
+
+* **DAST** Dynamic Application Security Testing / Black box
+  * Analyse de vulnérabilités sur l'application qui tourne
+  * Appelé aussi "stress test"
+
+---
+
+### Recueil des bonnes pratiques
+
+**DevSecOps** une évidence, expliqué, détaillé avec un ensemble de bonnes pratiques, c'est mieux! 
+
+Naissance du **DoD Enterprise DevSecOps Reference Design** ([DEDSORD](https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf))
+* Donne une vision claire des bonnes pratiques DevSecOps à avoir
+* 
+
 ---
 <!-- _class: lead -->
 <!-- _backgroundColor: #531f61 -->
