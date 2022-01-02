@@ -76,7 +76,7 @@ technologique*” - **Albert Einstein**
 
 ---
 
-# Rudder, qu'est-ce que c'est ?
+# Rudder, qu'ésaquo ?
 
 - Entreprise éditrice de logiciel **Open Source** du même nom
   - Basée à Paris (3ème proche de République)
