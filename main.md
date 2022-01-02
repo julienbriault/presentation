@@ -299,7 +299,8 @@ Le choix des solutions c'est principalement basé sur une analyse de receuils de
 
 Naissance du **DoD Enterprise DevSecOps Reference Design** ([DEDSORD](https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf))
 * Donne une vision claire des bonnes pratiques DevSecOps à avoir
-* 
+* Essaie d'apporter toutes les réponses sur l'implémentation de ces bonnes pratiques
+  * Fournissant des *méthodes* et non de la technique.
 
 ---
 <!-- _class: lead -->
