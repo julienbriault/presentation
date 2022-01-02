@@ -170,7 +170,22 @@ Exemple : **DORA** (Devop Research and Assessment) de **Google**.
 
 \**Image tirée du talk de *Denis GERMAIN* nommé **[SRE](https://www.youtube.com/watch?v=C8bcFLmZzAY)**.*
 
+---
 
+Un contexte particulier...
+
+- Besoin clients qui changent continuellement
+- Time-to-market réduit (concurrents, réglementations)
+
+> Emergence des pratiques agiles et de la culture DevOps
+
+---
+
+* Limites de l'approche de sécurisation traditionnelle
+  * Séparation des rôles
+  * Droit de veto de l'équipe sécurité
+  * Sécurisation sur des besoins figés, spécifications formalisées
+  * Stopper pour auditer
 ---
 
 La sécurité, encore une fois oublié... Vraiment ?
@@ -179,7 +194,7 @@ La sécurité, encore une fois oublié... Vraiment ?
   - **Kaizen** (amélioration continue)
   - **Scrum** (méthode : comment collaborer ?)
   - **Lean Startup** (constuire, mesurer, apprendre)
-
+  - **Agilité**
 ---
 <!-- _class: lead -->
 <!-- _backgroundColor: #2d409e -->
