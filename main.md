@@ -223,11 +223,6 @@ La sécurité, encore une fois oublié... Vraiment ?
 ---
 # Des solutions
 
-Pour garantir la sécurité d'un environnement DevOps, on va retrouver :
-- Des questions posées (par exemple : "est-ce testable ?")
-- Des solutions techniques
-- De la méthodologie
-
 Le choix des solutions c'est principalement basé sur une analyse de receuils de bonnes pratiques et d'expériences personnelles/professionnelles.
 
 ---
