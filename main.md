@@ -277,11 +277,11 @@ Le choix des solutions c'est principalement basé sur une analyse de receuils de
 
 * **SAST** Static Application Security Testing / White box
   * Recherche de vulnérabilités dans le code source
-    * Log4j/log4shell avec [Sonarqube](https://www.sonarqube.org/) 
+    - Log4j/log4shell avec [Sonarqube](https://www.sonarqube.org/) 
 
 * **DAST** Dynamic Application Security Testing / Black box
   * Analyse de vulnérabilités sur l'application qui tourne
-  * Appelé aussi "stress test"
+    - Nommé également "stress test"
 
 ---
 
