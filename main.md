@@ -92,14 +92,12 @@ technologique*” - **Albert Einstein**
 # Sommaire
 
 - Introduction
-  - Les motivations : pourquoi ce choix de sujet ?
 - Conduite et démarche de recherche
 - Les origines/ le contexte
 - La sécurité dans le DevOps, oui mais comment ?
 - Des solutions pour garantir cette sécurité ?
-- Dans la vie, ça marche comment ?
 - Conclusion
-- Le futur
+- Le futur / les projets
 
 ---
 <!-- _class: lead -->
@@ -128,11 +126,10 @@ technologique*” - **Albert Einstein**
 
 - Beaucoup d'informations autour du DevOps mais peu finalement sur la sécurité dans celui-ci
 - Le sujet n'est pas toujours bien compris
-  - Détailler pour mieux comprendre pour installer les bonnes pratiques de sécurité
-- Une réponse souvent logique mais pas évidente à comprendre : **DevSecOps**
+  - Détailler pour mieux comprendre pour y insérer les bonnes pratiques de sécurité
+- Une réponse souvent logique mais pas évidente à comprendre ni à mettre en place : **DevSecOps**
 ---
 
-# Introduction
 
 #### Pourquoi avoir fait ce choix de sujet ?
 
@@ -149,7 +146,7 @@ Exemple : **DORA** (Devop Research and Assessment) de **Google**.
 
 # Conduite et démarche de recherche
 
-- L'acquisition des connaissances se traduit par l'***intuition*** et l'***expérience personnelle***.
+- L'acquisition des connaissances se traduit par l'***intuition*** et l'***expérience personnelle*** (selon [FORTIN](http://cours-ifcs-brunopoupin.wifeo.com/documents/La-dmarche-de-Recherche.pdf)).
 
 - J'entends par :
   - L'**intuition** : connaissance immédiate du sujet abordé
@@ -186,16 +183,15 @@ Un contexte particulier...
   * Droit de veto de l'équipe sécurité
   * Sécurisation sur des besoins figés, spécifications formalisées
   * Stopper pour auditer
----
 
-La sécurité, encore une fois oublié... Vraiment ?
-
-- Analyse des concepts fondamentaux
+  
+- Analyse des concepts fondamentaux du DevOps
   - **Kaizen** (amélioration continue)
   - **Scrum** (méthode : comment collaborer ?)
   - **Lean Startup** (constuire, mesurer, apprendre)
   - **Agilité**
 ---
+
 <!-- _class: lead -->
 <!-- _backgroundColor: #2d409e -->
 <!-- _color: white -->
@@ -211,7 +207,7 @@ La sécurité, encore une fois oublié... Vraiment ?
 
 - Apporter des solutions méthodologiques et techniques à chaque pan du DevOps.
 - Mais, ce n'est pas que de la technique...
-  - D'après le **DEDSORD**, il est souvent oublié le point de vu *business* (des histoires de ROI par exemple).
+  - D'après le **DEDSORD**, il est souvent oublié, le point de vu *business* (des histoires de ROI par exemple).
   - Le **BIA** (Business Impact Analysis) plus qu'important mais trop souvent oublié
 
 ---
@@ -228,7 +224,7 @@ Le choix des solutions c'est principalement basé sur une analyse de receuils de
 ---
 #### La collaboration
 * L'équipe sécurité travaille avec les développeurs (l'équipe "DevOps")
-  * Dès le début des projets (shift security to the left)
+  * Dès le début des projets ("*shift security to the left*")
   * Rédiger des user stories orientées sécurité (> scénarios d'abus)
   * Partage d'expérience (communication ++)
 * Aller plus loin :
@@ -281,6 +277,7 @@ Le choix des solutions c'est principalement basé sur une analyse de receuils de
 
 * **SAST** Static Application Security Testing / White box
   * Recherche de vulnérabilités dans le code source
+    * Log4j/log4shell avec [Sonarqube](https://www.sonarqube.org/) 
 
 * **DAST** Dynamic Application Security Testing / Black box
   * Analyse de vulnérabilités sur l'application qui tourne
@@ -302,9 +299,9 @@ Naissance du **DoD Enterprise DevSecOps Reference Design** ([DEDSORD](https://do
 <!-- _backgroundColor: #531f61 -->
 <!-- _color: white -->
 
-# Le futur
+# Le futur / les projets
 ---
-# Le futur
+# Le futur / les projets
 #### Le retour aux sources
 
 - Premier CDI *signé*
@@ -313,7 +310,7 @@ Naissance du **DoD Enterprise DevSecOps Reference Design** ([DEDSORD](https://do
 **#network** **#sre** **#core-infra** **#automation**
 
 ---
-# Le futur
+# Le futur / les projets
 
 Créer une startup autour du projet [**Ichigo**](https://github.com/ichigoproject).
 
